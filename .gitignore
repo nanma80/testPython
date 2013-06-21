@@ -1,7 +1,10 @@
 *.py[cod]
 
+password.py
+
 # C extensions
 *.so
+
 
 # Packages
 *.egg
